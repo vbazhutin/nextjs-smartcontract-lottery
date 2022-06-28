@@ -1,0 +1,8 @@
+node_modules
+artifacts
+cache
+coverage*
+gasReportesOutput.json
+package.json
+img
+.end
